@@ -1,0 +1,1 @@
+I had the jump key set as UP key not space which is why it didn't work.
